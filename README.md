@@ -1,6 +1,6 @@
 # Atlas Navigator downloads
 
-[Download Atlas customer updater](https://github.com/mahmoud0al-haddad/atlas-navigator-downloads/releases/download/v3.0.0/Atlas-Updates.exe)
+[Download Atlas customer updater](https://github.com/mahmoud0al-haddad/atlas-navigator-downloads/releases/download/v3.0.1-client/Atlas-Updates.exe)
 
 The Windows customer app checks signed navigation customization updates and downloads selected compatible offline maps from their official source. No GitHub account is needed.
 
